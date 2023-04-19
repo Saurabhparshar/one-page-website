@@ -1,9 +1,6 @@
 
 
-
-
-
-#Screenshot of how the project looks 
+# Screenshot of how the project looks 
 
 
 
