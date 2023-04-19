@@ -3,6 +3,8 @@
 
 
 
+#Screenshot of how the project looks 
+
 
 
 ![Screenshot (290)](https://user-images.githubusercontent.com/109866847/232956432-3d2557dd-18d7-4345-b9ef-9529743bc2de.png)
