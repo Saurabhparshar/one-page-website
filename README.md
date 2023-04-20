@@ -2,6 +2,10 @@
 Its a React js project . In it we have created single page website.
 It has followwing features.
 - A navbar
+- Home section
+- About us section
+- Services provided by the company section
+- Contact us section
 
 # Screenshot of how the project looks :)
 
