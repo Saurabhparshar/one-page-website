@@ -1,5 +1,7 @@
 # React js project
-Its a React js project . In it
+Its a React js project . In it we have created single page website.
+It has followwing features.
+- A navbar
 
 # Screenshot of how the project looks :)
 
